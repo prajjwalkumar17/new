@@ -21,15 +21,15 @@ import android.media.AudioManager;
 import android.preference.PreferenceManager;
 import android.util.Log;
 
-import com.W3Dev.w3devcalling.R;
-import com.W3Dev.w3devcalling.util.AppRTCUtils;
+//import com.W3Dev.w3devcalling.R;
+//import com.W3Dev.w3devcalling.util.AppRTCUtils;
 
 import org.webrtc.ThreadUtils;
 
 import java.util.HashSet;
 import java.util.Set;
 
-import static com.W3Dev.w3devcalling.util.AppRTCUtils.assertIsTrue;
+//import static com.W3Dev.w3devcalling.util.AppRTCUtils.assertIsTrue;
 
 //import com.myhexaville.androidwebrtc.R;
 
